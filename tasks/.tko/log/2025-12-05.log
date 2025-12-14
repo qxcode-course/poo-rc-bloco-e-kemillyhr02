@@ -1,0 +1,31 @@
+2025-12-05 18:20:07, MOVE, v:1, k:poo@pagamento, mode:DOWN
+2025-12-05 18:34:05, MOVE, v:1, k:poo@pagamento, mode:PICK
+2025-12-05 18:34:06, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0, size:2
+2025-12-05 18:34:07, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 18:34:08, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 18:34:09, MOVE, v:1, k:poo@pagamento, mode:BACK
+2025-12-05 18:34:18, MOVE, v:1, k:poo@pagamento, mode:PICK
+2025-12-05 18:34:18, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0, size:2
+2025-12-05 18:34:21, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 18:34:22, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 18:34:22, MOVE, v:1, k:poo@pagamento, mode:BACK
+2025-12-05 18:35:19, MOVE, v:1, k:poo@pagamento, mode:PICK
+2025-12-05 18:35:19, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0, size:3
+2025-12-05 18:35:20, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 18:35:21, MOVE, v:1, k:poo@pagamento, mode:BACK
+2025-12-05 21:45:24, MOVE, v:1, k:poo@pagamento, mode:PICK
+2025-12-05 21:45:25, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:100, size:5
+2025-12-05 21:45:26, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:100
+2025-12-05 21:45:27, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:100
+2025-12-05 21:45:28, MOVE, v:1, k:poo@pagamento, mode:BACK
+2025-12-05 21:56:56, MOVE, v:1, k:poo@pagamento, mode:PICK
+2025-12-05 21:56:57, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0, size:9
+2025-12-05 21:57:02, MOVE, v:1, k:poo@pagamento, mode:BACK
+2025-12-05 22:14:16, MOVE, v:1, k:poo@pagamento, mode:PICK
+2025-12-05 22:14:17, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 22:14:17, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 22:14:18, MOVE, v:1, k:poo@pagamento, mode:BACK
+2025-12-05 22:14:25, MOVE, v:1, k:poo@pagamento, mode:PICK
+2025-12-05 22:14:25, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0, size:8
+2025-12-05 22:14:26, EXEC, v:1, k:poo@pagamento, mode:LOCK, rate:0
+2025-12-05 22:14:30, MOVE, v:1, k:poo@pagamento, mode:BACK
